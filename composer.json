@@ -45,10 +45,5 @@
         "phpunit/phpunit": "^9.0",
         "doctrine/instantiator": "^1.4.0",
         "doctrine/common": "^3"
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "dev"
-        }
     }
 }
