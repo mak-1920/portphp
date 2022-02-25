@@ -2,12 +2,14 @@
 
 namespace Port;
 
+use Throwable;
+
 /**
  * Base exception
  *
  * @author David de Boer <david@ddeboer.nl>
  */
-interface Exception
+interface Exception extends Throwable
 {
 
 }
